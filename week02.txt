@@ -24,4 +24,7 @@
 • git log : 커밋 기록 
 • git chekout 해시코드 (16진수 앞 7자리까지 또는 전체 _ 로그보면 나와있음 ) : 시간여행 (저장전으로) 
 • git chekout - : 원위치 
+• git branch -M main
+• git remote add origin https://github.com/meow3166/NYAN_k.git
+• git push -u origin main
 
