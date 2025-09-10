@@ -1,1 +1,27 @@
 1. 리눅스 명령어, 깃 명령어
+
+
+1) 리눅스 명령어 
+•  ls 
+• ls -a
+• touch 파일명 
+• echo "출력 문자열" 
+• echo "문자열" >> 파일명 
+• cat 
+• cd ..
+• cd 폴더명 
+
+
+2) 깃 명령어 
+• git init 
+• git status : 상태보기
+• git add 파일명 : 장전
+• git  add . : 전체 장전 
+• git config --global user.email "메일주소" 
+• git config --global user.name "이름" 
+• git config --list 
+• git commit -m "커밋 메세지" 
+• git log : 커밋 기록 
+• git chekout 해시코드 (16진수 앞 7자리까지 또는 전체 _ 로그보면 나와있음 ) : 시간여행 (저장전으로) 
+• git chekout - : 원위치 
+
