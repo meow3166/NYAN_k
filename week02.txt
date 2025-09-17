@@ -34,3 +34,7 @@
 • git push -u origin main : 업로드
 • git clone https://github.com/meow3166/NYAN_k.git (링크) .
  : 현재 폴더에 카피 (!! . 을 빼면 폴더안 폴더 상황이 .. ) 
+
+
+################# 
+이렇게 하면??
