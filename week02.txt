@@ -10,7 +10,7 @@
 • cat 
 • cd ..
 • cd 폴더명 
-• clear
+• clear :
 
 
 2) 깃 명령어 
@@ -34,7 +34,9 @@
 • git push -u origin main : 업로드
 • git clone https://github.com/meow3166/NYAN_k.git (링크) .
  : 현재 폴더에 카피 (!! . 을 빼면 폴더안 폴더 상황이 .. ) 
+• git remote -v 
+• git remote remove origin
 
-
-################# 
-이렇게 하면??
+• git fetch : 원격지에 뭐가 있나 체크 
+log를 봤을떄 origin/main 없으면 원격에서 뭐가 바꼇당. . !! 
+• git pull : 원격에서 바꾼 후 반영 
