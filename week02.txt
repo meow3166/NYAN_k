@@ -13,6 +13,7 @@
 
 
 2) 깃 명령어 
+* 빠져나갈떈 Q
 • git init : 깃폴더 만들기
 • git status : 상태보기
 • git add 파일명 : 장전
@@ -22,10 +23,12 @@
 • git config --list 
 • git commit -m "커밋 메세지" 
 • git log : 커밋 기록 
-• git chekout 해시코드 (16진수 앞 7자리까지 또는 전체 _ 로그보면 나와있음 ) : 시간여행 (저장전으로) 
-• git chekout - : 원위치 
+• git log --oneline : 커밋 기록 한줄씩
+
+• git checkout 해시코드 (16진수 앞 7자리까지 또는 전체 _ 로그보면 나와있음 ) : 시간여행 (저장전으로) 
+• git checkout - : 원위치 
 • git branch -M main
 • git remote add origin https://github.com/meow3166/NYAN_k.git
-• git push -u origin main
+• git push -u origin main : 원격 리포지토리 주소설정 
 • git push -u origin main : 업로드
-• git clone https://github.com/meow3166/NYAN_k.git (링크)
+• git clone https://github.com/meow3166/NYAN_k.git (링크) . : 현재 폴더에 카피 (!! . 을 빼면 폴더안 폴더 상황이 .. ) 
