@@ -11,7 +11,9 @@
 • cd ..
 • cd 폴더명 
 • clear :
-
+• rm 폴더명 또는 파일명 :걍 지우고 
+• rm -rf 폴더명 또는 파일명 : 강제로 지우고
+• mkdir 폴더이름 : 폴더 만들기
 
 2) 깃 명령어 
 * 빠져나갈떈 Q
@@ -25,7 +27,6 @@
 • git commit -m "커밋 메세지" 
 • git log : 커밋 기록 
 • git log --oneline : 커밋 기록 한줄씩
-
 • git checkout 해시코드 (16진수 앞 7자리까지 또는 전체 _ 로그보면 나와있음 ) : 시간여행 (저장전으로) 
 • git checkout - : 원위치 
 • git branch -M main
@@ -36,7 +37,6 @@
  : 현재 폴더에 카피 (!! . 을 빼면 폴더안 폴더 상황이 .. ) 
 • git remote -v 
 • git remote remove origin
-
 • git fetch : 원격지에 뭐가 있나 체크 
 log를 봤을떄 origin/main 없으면 원격에서 뭐가 바꼇당. . !! 
 • git pull : 원격에서 바꾼 후 반영 
