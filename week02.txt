@@ -25,6 +25,7 @@ ex) *.c  # 모든 c파일은 무시함
 • git status : 상태보기
 • git add 파일명 : 장전
 • git  add . : 전체 장전 
+• git log --graph --oneline :로그에 그래프 추가 
 • git config --global user.email "메일주소" 
 • git config --global user.name "이름" 
 • git config --list 
