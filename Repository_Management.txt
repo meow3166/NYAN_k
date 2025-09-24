@@ -1,0 +1,13 @@
+[ 초기 설정 ] 
+
+• git clone https://github.com/meow3166/NYAN_k.git (링크) .
+ : 현재 폴더에 카피_원격 리포지토리에 갖고오는거 (!! . 을 빼면 폴더안 폴더 상황이 .. ) 
+• git remote -v : 리포지토리 주소 출력 
+• git remote remove origin : 리포지토리 주소 제거(초기화)
+• git push -u origin main : 원격 리포지토리 주소설정 
+
+• git config --global user.email "메일주소" 
+• git config --global user.name "이름"
+
+• git push -u origin main : 업로드
+• git remote add origin https://github.com/meow3166/NYAN_k.git
