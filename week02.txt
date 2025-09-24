@@ -46,3 +46,9 @@ ex) *.c  # 모든 c파일은 무시함
 log를 봤을떄 origin/main 없으면 원격에서 뭐가 바꼇당. . !! 
 • git pull : 원격에서 바꾼 후 반영 
 •  git push -f origin main   : 강제변경..
+
+<기타>
+< Vim 에디터 >
+
+esc > :  
+wq! >  저장후 강제종료 
